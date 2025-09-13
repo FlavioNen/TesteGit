@@ -1,5 +1,1 @@
-// git init
-// git status
-// git add .\
-
-console.log("Testando o GIT");
+console.log("Novo texto criado para testar o GIT");
