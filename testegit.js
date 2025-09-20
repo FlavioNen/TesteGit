@@ -1,1 +1,3 @@
-console.log("Nova alteração para teste de versionamento no git V4");
+let a = 2
+let b = 5
+console.log(a+b)
